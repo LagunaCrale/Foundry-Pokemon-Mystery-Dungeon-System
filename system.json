@@ -1,7 +1,7 @@
 {
-  "id": "ptu",
-  "title": "Pokemon Tabletop Reunited",
-  "description": "A re-imagining of the Pokemon Tabletop United TTRPG System now made with FoundryVTT as a central pilar.",
+  "id": "pmd",
+  "title": "Pokemon Mystery Dungeon: Explorers of Fate",
+  "description": "A re-imagining of the Pokemon Mystery Dungeon TTRPG System now made with FoundryVTT as a central pilar.",
   "compatibility": {
     "minimum": "12.327",
     "verified": "12.329",
@@ -62,100 +62,100 @@
       "type": "Item",
       "name": "abilities",
       "path": "packs/abilities.db",
-      "system": "ptu"
+      "system": "pmd"
     },
     {
       "label": "PTR Moves",
       "type": "Item",
       "name": "moves",
       "path": "packs/moves.db",
-      "system": "ptu"
+      "system": "pmd"
     },
     {
       "label": "PTR Feats",
       "type": "Item",
       "name": "feats",
       "path": "packs/feats.db",
-      "system": "ptu"
+      "system": "pmd"
     },
     {
       "label": "PTR Edges",
       "type": "Item",
       "name": "edges",
       "path": "packs/edges.db",
-      "system": "ptu"
+      "system": "pmd"
     },
     {
       "label": "PTR Items",
       "type": "Item",
       "name": "items",
       "path": "packs/items.db",
-      "system": "ptu"
+      "system": "pmd"
     },
     {
       "label": "PTR Capabilities",
       "type": "Item",
       "name": "capabilities",
       "path": "packs/capabilities.db",
-      "system": "ptu"
+      "system": "pmd"
     },
     {
       "label": "PTR Poke Edges",
       "type": "Item",
       "name": "poke-edges",
       "path": "packs/poke-edges.db",
-      "system": "ptu"
+      "system": "pmd"
     },
     {
       "label": "PTR Habitats",
       "type": "RollTable",
       "name": "habitats",
       "path": "packs/habitats.db",
-      "system": "ptu"
+      "system": "pmd"
     },
     {
       "label": "PTR Rolltables",
       "type": "RollTable",
       "name": "rolltables",
-      "system": "ptu"
+      "system": "pmd"
     },
     {
       "label": "PTR Effects",
       "type": "Item",
       "name": "effects",
       "path": "packs/effects.db",
-      "system": "ptu"
+      "system": "pmd"
     },
     {
       "label": "PTR Species",
       "type": "Item",
       "name": "species",
       "path": "packs/species.db",
-      "system": "ptu"
+      "system": "pmd"
     }, 
     {
       "label": "PTR Macros",
       "type": "Macro",
       "name": "macros",
-      "system": "ptu"
+      "system": "pmd"
     },
     {
       "label": "PTR References",
       "type": "Item",
       "name": "references",
-      "system": "ptu"
+      "system": "pmd"
     },
     {
       "label": "PTR Spirit Actions",
       "type": "Item",
       "name": "spirit-actions",
-      "system": "ptu"
+      "system": "pmd"
     },
     {
       "label": "PTR Journals",
       "type": "JournalEntry",
       "name": "journals",
-      "system": "ptu"
+      "system": "pmd"
     }
   ],
   "languages": [
